@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hydromoll
 - 👀 I’m interested in mobile development
-- 🌱 I’m currently learning React-native, javascript
+- 🌱 I’m currently learning Swift and SwiftUI
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me hydromoll@mail.ru
 
