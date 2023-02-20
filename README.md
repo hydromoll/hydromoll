@@ -14,5 +14,5 @@
 
 ### статистика wakatime
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nubovik&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@hydromoll&theme=github_dark"/>
 </div>
