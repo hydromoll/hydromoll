@@ -1,3 +1,5 @@
+<img width="1709" height="920" alt="telegram-cloud-photo-size-2-5463297034895955520-w" src="https://github.com/user-attachments/assets/04e0590c-139c-4021-952d-4777fbf5a7c3" />
+
 # 💫 About Me:
 👋 Hi, I’m @hydromoll<br>👀 I’m interested in mobile development<br>🌱 I’m currently learning Swift and SwiftUI<br>💞️ I’m looking to collaborate on interesting projects<br>📫 How to reach me hydromoll@mail.ru
 
